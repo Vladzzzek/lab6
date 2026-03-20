@@ -1,7 +1,7 @@
 public class Hello{
 	public static void main(String[] args){
-		System.out.println("Hello newnew");
-		System.out.print("c");
+		System.out.println("Hello last");
+
 
 }
 }
